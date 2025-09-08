@@ -1,4 +1,5 @@
 Name : Putta karthik
 Course : BSC(Data Science)
-
+about GitHub :
 GitHub is used for storing the projects in a repository
+
